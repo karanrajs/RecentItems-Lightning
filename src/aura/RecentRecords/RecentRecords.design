@@ -1,0 +1,4 @@
+<design:component>
+    <design:attribute name="object" label="Object Name" />
+    <design:attribute name="limit" label="Limit" />
+</design:component>
