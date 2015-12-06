@@ -5,11 +5,12 @@
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
+
+![alt tag](https://raw.github.com/Karanraj/RecentItems-Lightning/master/img/Component.png)
+
 This lightning component allows you to get recently viewed records from an object with the dynamic fields information. Salesforce has standard features which allows you to view the recently accessed records, but it comes with standard set of fields for all objects and its object specific. This lightning component allows you to set field dynamically and limit the number of records you want to display
 
-
-
-
+![alt tag](https://raw.github.com/Karanraj/RecentItems-Lightning/master/img/Lightning%20App%20builder.png)
 
 # References
 Lightning Component Trailhead Module - https://developer.salesforce.com/trailhead/module/lightning_components
